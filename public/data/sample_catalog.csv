@@ -1,0 +1,23 @@
+track_id,track_title,artist_name,release_datetime_local,timezone,target_market,streams_first_7_days,save_count
+RW0001,Pop Sample Track 01,Artist 3,2024-08-12 10:00:00,Asia/Kolkata,India,372686,182
+RW0002,Rock Sample Track 02,Artist 14,2025-02-10 20:00:00,Asia/Kolkata,India,60197,179
+RW0003,Pop Sample Track 03,Artist 29,2024-04-24 20:00:00,Asia/Kolkata,India,459367,99
+RW0004,Indie Sample Track 04,Artist 21,2024-12-12 18:00:00,Asia/Kolkata,India,160492,158
+RW0005,Rock Sample Track 05,Artist 38,2025-01-05 18:00:00,Asia/Kolkata,India,159574,79
+RW0006,R&B Sample Track 06,Artist 6,2025-02-11 18:00:00,Asia/Kolkata,India,587362,125
+RW0007,Pop Sample Track 07,Artist 36,2025-01-06 08:00:00,Asia/Kolkata,India,256893,164
+RW0008,Indie Sample Track 08,Artist 12,2024-04-28 21:00:00,Asia/Kolkata,India,171386,20
+RW0009,Electronic Sample Track 09,Artist 7,2024-05-07 14:00:00,Asia/Kolkata,India,449566,39
+RW0010,Pop Sample Track 10,Artist 17,2024-07-31 18:00:00,Asia/Kolkata,India,334417,96
+RW0011,Rock Sample Track 11,Artist 27,2024-12-29 20:00:00,Asia/Kolkata,India,159129,87
+RW0012,Hip-Hop Sample Track 12,Artist 28,2024-08-16 08:00:00,Asia/Kolkata,India,307292,180
+RW0013,Rock Sample Track 13,Artist 9,2024-02-08 10:00:00,Asia/Kolkata,India,588558,59
+RW0014,Indie Sample Track 14,Artist 24,2024-04-02 18:00:00,Asia/Kolkata,India,183708,54
+RW0015,Indie Sample Track 15,Artist 3,2024-06-05 08:00:00,Asia/Kolkata,India,489802,97
+RW0016,Pop Sample Track 16,Artist 37,2024-05-28 14:00:00,Asia/Kolkata,India,399651,121
+RW0017,R&B Sample Track 17,Artist 9,2024-05-18 21:00:00,Asia/Kolkata,India,181063,41
+RW0018,Indie Sample Track 18,Artist 22,2024-06-28 10:00:00,Asia/Kolkata,India,586756,97
+RW0019,Hip-Hop Sample Track 19,Artist 15,2025-01-31 18:00:00,Asia/Kolkata,India,235288,137
+RW0020,Electronic Sample Track 20,Artist 17,2025-02-15 20:00:00,Asia/Kolkata,India,116932,58
+RW0021,Pop Sample Track 21,Artist 22,2025-04-24 20:00:00,Asia/Kolkata,India,56695,151
+RW0022,Pop Sample Track 22,Artist 37,2025-01-24 18:00:00,Asia/Kolkata,India,492043,162
